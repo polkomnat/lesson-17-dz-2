@@ -1,0 +1,16 @@
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).exe
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).deps.json
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).runtimeconfig.json
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).runtimeconfig.dev.json
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).dll
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\bin\Debug\net5.0\dz-2(lift).pdb
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).csproj.AssemblyReference.cache
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).AssemblyInfoInputs.cache
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).AssemblyInfo.cs
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).csproj.CoreCompileInputs.cache
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).dll
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\refint\dz-2(lift).dll
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).pdb
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\dz-2(lift).genruntimeconfig.cache
+C:\Csharp-7\classworks\lesson17\dz-2(lift)\dz-2(lift)\obj\Debug\net5.0\ref\dz-2(lift).dll
